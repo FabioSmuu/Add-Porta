@@ -13,4 +13,5 @@ Aguarde poucos segundos
 
 **Obrigado pela sua atenção!**
 	
-Limpeza do código feita por Fred Oliveira
+## Contribuidores
+* [Fred Oliveira](https://github.com/guimaraf)
