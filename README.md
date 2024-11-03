@@ -8,8 +8,9 @@ Adicione portas ao firewall do windows sem muita complicação.
 <img src="/img/fire.png?v=3&s=200" title="" alt="">
 
 Aguarde poucos segundos
-
-**Obrigado pela sua atenção!**
 	
 ## Contribuidores
 * [Fred Oliveira](https://github.com/guimaraf)
+
+
+**Obrigado pela sua atenção!**
